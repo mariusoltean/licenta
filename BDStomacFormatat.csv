@@ -1,0 +1,980 @@
+Stomac,S-Lum,S-Cont,S-MucANT,S-MucJAC,S-MucCORP,SlezANT,S-LezJAC,S-LezCORP,Pilor
+A spre jonct A-C-cateva eroz acoper de fibrina,N,N,N,N,N,ERZZ,N,N,N
+A-2 eroz circulare fara caract hemor activ,N,N,N,N,N,ERZZ,N,N,N
+A-3 eroz areolare dispuse prepiloric (1.5-0.5 cm) fara caract hemor,N,N,N,N,N,ERZZ,N,N,N
+A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+A-accentuat folicular C-folicular,N,N,NO,N,NO,N,N,N,N
+A-accentuat folicular eroz hemor prepiloric (medicamentos),N,N,NO,N,N,ERZ (MEDIC),N,N,N
+A-accentuat mozaic,N,N,MO,N,N,N,N,N,N
+A-accetuat folicular cong difuz cateva eroz,N,N,NO,N,N,ERZZ,N,N,N
+A-apect de mozaic,N,N,MO,N,N,N,N,N,N
+A-cateva eroz,N,N,N,N,N,ERZZ,N,N,N
+A-cateva eroz liniare supf,N,N,N,N,N,ERZZ,N,N,N
+A-cateva eroz precardial,N,N,N,N,N,ERZZ,N,N,N
+A-cateva eroz punctiforme si supf minim folicular,N,N,NO,N,N,ERZZ,N,N,N
+A-cateva hemor subepit,N,N,HE,N,N,N,N,N,N
+A-cateva petesii,N,N,PE,N,N,N,N,N,N
+A-cateva petesii pe un fond cong,N,N,ER; PE,N,N,N,N,N,N
+A-cicatr (posibil post leziune ulceroasa),N,N,N,N,N,CIC,N,N,N
+A-cong,N,N,ER,N,N,N,N,N,N
+A-cong cu aspect de mozaic jonct A-C-folicular,N,N,MO,NO,N,N,N,N,N
+A-cong difuz,N,N,ER,N,N,N,N,N,N
+A-cong difuz cu aspect folicular ce se extinde spre jonct A-C,N,N,NO,NO,N,N,N,N,N
+A-cong difuz cu cateva eroz hemor,N,N,ER,N,N,ERZ,N,N,N
+A-cong difuz impregn cu bila,N,A-BI,ER,N,N,N,N,N,N
+A-cong difuz tapetat de mucus aerat,N,A-MU,ER,N,N,N,N,N,N
+A-cong difuz 1 petes,N,N,ER,N,N,N,N,N,N
+A-cong difuz 2 mici eroz,N,N,ER,N,N,ERZ,N,N,N
+A-cong difuz 2-3 eroz,N,N,ER,N,N,ERZ,N,N,N
+A-cong difuz 4-5 eroz,N,N,ER,N,N,ERZ,N,N,N
+A-cong difuz aspect folicular,N,N,NO,N,N,N,N,N,N
+A-cong difuz cateva eroz,N,N,ER,N,N,ERZZ,N,N,N
+A-cong difuz cu 2-3 eroz si un mic polip 0.5/0.5 cm situat la 2 cm de pilor,N,N,ER,N,N,ERZZ; POL,N,N,N
+A-cong difuz depozite de mucus impregn cu bila si eroz de 2/2 cm,N,A-BI; MU,ER,N,N,ERZ,N,N,N
+A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+A-cong difuz microfolicular,N,N,NO,N,N,N,N,N,N
+A-cong difuz minim folicular,N,N,NO,N,N,N,N,N,N
+A-cong difuz parcelar folicular,N,N,NO,N,N,N,N,N,N
+A-cong difuz tapetat cu mucus aerat cu multiple eroz,N,A-MU,ER,N,N,ERZZ,N,N,N
+A-cong difuz tapetat de mucus aerat,N,A-MU,ER,N,N,N,N,N,N
+A-cong difuz tapetat de mucus aerat parcelar impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+A-cong difuz cateva eroz acoper cu fibrina,N,N,ER,N,N,ERZZ,N,N,N
+A-cong difuz jonct A-C minim folicular,N,N,ER,NO,N,N,N,N,N
+A-cong difuz pilor spastic pliuri prepilorice hipertrofiate,N,N,ER,N,N,N,N,N,SPAS;   PPH
+A-cong difuz prolaps muc duod in bulb,PD,N,ER,N,N,N,N,N,N
+A-cong difuz+cateva eroziuni,N,N,ER,N,N,ERZZ,N,N,N
+A-cong difuz+folicular,N,N,NO,N,N,N,N,N,N
+A-cong in mozaic,N,N,MO,N,N,N,N,N,N
+A-cong in mozaic Cmic-ulcer vechi cicatrizat,N,N,MO,N,N,N,N,CIC,N
+A-cong in mozaic folicular,N,N,NO,N,N,N,N,N,N
+A-cong in mozaic la niv corp gastric prez pe peretele post o form proeminenta de 3/4 cm acoper de muc normala si elasticitate similara zonelor adiacente ,N,N,MO,N,N,N,N,POL,N
+A-cong intens cu cateva microeroz (2-3),N,N,ER,N,N,ERZZ,N,N,N
+A-cong intens tapetat de mucus aerat,N,A-MU,ER,N,N,N,N,N,N
+A-cong partial,N,N,ER,N,N,N,N,N,N
+A-cong accentuat folicular,N,N,NO,N,N,N,N,N,N
+A-cong depozite de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+A-cong folicular,N,N,NO,N,N,N,N,N,N
+A-cong marmorat,N,N,MO,N,N,N,N,N,N
+A-cong minim folicular,N,N,NO,N,N,N,N,N,N
+A-cong cant moder de suc gastr si bila,N,A-BI; MU,ER,N,N,N,N,N,N
+A-depozite de mucus impreg cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+A-difuz cong RDG,RDG,N,ER,N,N,N,N,N,N
+A-discret folicular,N,N,NO,N,N,N,N,N,N
+A-edematos cong difuz,N,N,ER,N,N,N,N,N,N
+A-eroz hemor supf,N,N,ER,N,N,ERZZ,N,N,N
+A-folic,N,N,NO,N,N,N,N,N,N
+A-folicular,N,N,NO,N,N,N,N,N,N
+A-folicular accentuat,N,N,NO,N,N,N,N,N,N
+A-folicular cu cateva eroziuni,N,N,NO,N,N,ERZZ,N,N,N
+A-folicular marcat,N,N,NO,N,N,N,N,N,N
+A-folicular marcat eroziune liniara la nivelul pilorului,N,N,NO,N,N,ERZ,N,N,N
+A-folicular marcat prepiloric polip ombilicat (pancreas ectopic),N,N,NO,N,N,POL,N,N,N
+A-folicular marcat prolaps muc duodenal,PD,N,NO,N,N,N,N,N,N
+A-folicular cateva eroz supf (post-aspirina?),N,N,NO,N,N,ERZZ (MEDIC),N,N,N
+A-folicular cateva lez petesiale,N,N,NO; PE,N,N,N,N,N,N
+A-folicular cu cateva eroz,N,N,NO,N,N,ERZZ,N,N,N
+A-folicular depozite de bila ce impregn muc,N,A-BI; MU,NO,N,N,N,N,N,N
+A-folicular depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+A-folicular fara semne de HTP,N,N,NO,N,N,N,N,N,N
+A-folicular jonct A-C-folicular,N,N,NO,NO,N,N,N,N,N
+A-folicular mai accentuat la niv jonct C-A,N,N,NO,NO,N,N,N,N,N
+A-folicular parcelar aspect in mozaic,N,N,NO,N,N,N,N,N,N
+A-folicular bila si mucus aderent de muc,N,A-BI; MU,NO,N,N,N,N,N,N
+A-folicular cant mare de bila in stomac,N,BI,NO,N,N,N,N,N,N
+A-folicular cant moder bila in stomac,N,N,NO,N,N,N,N,N,N
+A-folicular F-cateva hemor subepit,N,N,NO; PE,N,N,N,N,N,N
+A-folicular jonct A-C folicular,N,N,NO,NO,N,N,N,N,N
+A-folicular pliuri prepiloric edematiat,N,N,NO,N,N,N,N,N,N
+A-folicular zone de mucus aerat ce tapet mucoasa,N,N,NO,N,N,N,N,N,N
+A-form polipoida cu baza larga de implantare si cu mucoasa de aceeasi aspect cu cea adiacenta,N,N,N,N,N,POL,N,N,N
+A-hemor subepit,N,N,HE,N,N,N,N,N,N
+A-impregn cu bila mai edematiata,N,A-BI,N,N,N,N,N,N,N
+A-macrofolicular 2 eroz,N,N,NO,N,N,ERZZ,N,N,N
+A-mai edematiat,N,N,N,N,N,N,N,N,N
+A-mai palid,N,N,PAL,N,N,N,N,N,N
+A-mai palid jonct C-A folicular,N,N,PAL,NO,N,N,N,N,N
+A-microcicatricial,N,N,N,N,N,CIC,N,N,N
+A-min folicular,N,N,NO,N,N,N,N,N,N
+A-minim aspect folicular,N,N,NO,N,N,N,N,N,N
+A-minim aspect mozaic,N,N,MO,N,N,N,N,N,N
+A-minim cong,N,N,ER,N,N,N,N,N,N
+A-minim folicular,N,N,NO,N,N,N,N,N,N
+A-minim folicular si mucus aerat,N,N,NO,N,N,N,N,N,N
+A-minim folicular jonct A-C folicular,N,N,NO,NO,N,N,N,N,N
+A-minim folicular pilor spastic minim RDG,RDG,N,NO,N,N,N,N,N,SPAS
+A-minim folicular RDG,RDG,N,NO,N,N,N,N,N,N
+A-minim folicular spasm piloric cant moder de suc gastr,N,N,NO,N,N,N,N,N,SPAS
+A-minim mozaic,N,N,MO,N,N,N,N,N,N
+A-minima cong,N,N,ER,N,N,N,N,N,N
+A-minima cong folicular,N,N,NO,N,N,N,N,N,N
+A-mozaic,N,N,MO,N,N,N,N,N,N
+A-mozaic si folicular,N,N,NO,N,N,N,N,N,N
+A-mozaic la 1 cm de pilor prez form ombilicata (pancreas ectopic),N,N,MO,N,N,POL,N,N,N
+A-mozaic prepiloric form polipoida cu baza larga de implantare,N,N,MO,M,N,POL,N,N,N
+A-mucus aderent pe suprafata,N,A-MU,N,N,N,N,N,N,N
+A-mucus aderent pe suprafata cant moder suc gastr,N,A-MU,N,N,N,N,N,N,N
+A-mucus impregn cu bila,N,A-BI; MU,N,N,N,N,N,N,N
+A-multe eroz supf cu caract hemor,N,N,N,N,N,ERZZ,N,N,N
+A-palida cu circul vizibila minim folicular,N,N,PAL,N,N,N,N,N,N
+A-parcelar atrofic,N,N,AT,N,N,N,N,N,N
+A-parcelar folicular,N,N,AT,N,N,N,N,N,N
+A-polip 0.5/0.5cm,N,N,N,N,N,POL,N,N,N
+A-schiteaza mozaic,N,N,MO,N,N,N,N,N,N
+A-usor cong,N,N,ER,N,N,N,N,N,N
+A jonct A-C folicular,N,N,NO,NO,N,N,N,N,N
+A+C palid friabil stomac partial volvulat,VGI,N,PAL,PAL,PAL,N,N,N,N
+A+C-cong difuz,N,N,ER,ER,ER,N,N,N,N
+A+C-cong difuz tapetat de mucus Cma+A-1 eroz,N,N,ER,ER,ER,ERZ,N,N,N
+A+C-cong difuz tapetat de mucus reflux biliar bulbo-gastro- esof,RDGE,BI; MU,ER,ER,ER,N,N,N,N
+A+C-folicular,N,N,NO,NO,NO,N,N,N,N
+A+Cma-multiple eroz cu caract hemor hemor subepit,N,N,HE,HE,HE,ERZZ,N,N,N
+alimente,N,N,N,N,N,N,N,N,N
+antral minim aspect folicular,N,N,NO,N,N,N,N,N,N
+bezoar gastr Cmi-UG,N,N,N,N,N,N,N,UG,N
+bila aderenta de mucoasa A-cong,N,A-BI,ER,N,N,N,N,N,N
+bila in cant mica,N,N,N,N,N,N,N,N,N
+C-2 ulcere in oglinda acoper de cruste hematice si o eroz hemo la ac nivel,N,N,N,N,N,N,N,2 UG,N
+C-cateva eroz A-palida,N,N,PAL,N,N,N,N,ERZZ,N
+C-cong difuz A-folicular si depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,ER,N,N,N,N
+C-cong difuza si aspect macrofolicular staza gastr import cu suc gastr si bila A-folicular cateva lez petesiale depozite de mucus impregnat cu bila,N,A-BI; MU,NO; PE,N,NO,N,N,N,N
+C-cong difuza jonct A-C multiple eroz,N,N,N,N,ER,N,ERZZ,N,N
+C-fara modif A-folicular,N,N,NO,N,N,N,N,N,N
+C-folicular,N,N,N,N,NO,N,N,N,N
+C-folicular A-cong difuz,N,N,ER,N,NO,N,N,N,N
+C-folicular A-microeroz,N,N,N,N,NO,N,ERZZ,N,N
+C-intens folicular,N,N,N,N,NO,N,N,N,N
+C-lez microhemor subepit,N,N,HE,N,N,N,N,N,N
+C-mica ulceratie acoperita de crusta hematica,N,N,N,N,N,N,N,UG,N
+C-minim folicular,N,N,N,N,NO,N,N,N,N
+C-moneda de 10 bani,N,MONEDA,N,N,N,N,N,N,N
+C-muc cong difuz impregn parcelar cu bila Cma-cateva microeroz,N,BI,N,N,ER,N,N,ERZZ,N
+C-muc edematiata folicular A-cong difuz folicular,N,N,NO,NO,NO,N,N,N,N
+C-muc hipertrofica A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+C-muc mai edematiata A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+C-muc palida,N,N,N,N,PAL,N,N,N,N
+C-muc palida multiple petesii si o eroz,N,N,N,N,PE,N,N,ERZ,N
+C-muc palida A-aspect de mozaic,N,N,MO,N,PAL,N,N,N,N
+C-muc palida A-cateva eroz unele acop cu fibrina,N,N,N,N,PAL,ERZZ,N,N,N
+C-muc palida A-muc palida cu eroz,N,N,PAL,PAL,PAL,ERZ,N,N,N
+C-multiple eroz hemor,N,N,N,N,N,N,N,ERZZ,N
+C-norm A-accent folicular eroziuni multiple,N,N,NO,N,N,ERZZ,N,N,N
+C-normal A-cong difuz,N,N,ER,N,N,N,N,N,N
+C-pliuri edematiate,N,N,N,N,N,N,N,N,N
+C-pliuri edematiate A-cong,N,N,ER,N,N,N,N,N,N
+C-pliuri edematiate A-cong intens,N,N,ER,N,N,N,N,N,N
+C-pliuri hipertrofiate edematiate care nu raspund la insuflare de aer,N,N,N,N,N,N,N,PH,N
+C-pliuri mai edematiate A-folicular cateva eroz,N,N,NO,N,N,ERZZ,N,N,N
+C-pliuri usor edematiate pilor larg deschis diskinetic,N,N,N,N,N,N,N,N,DISK
+C-tapetat cu mucus aerat A-cong intens minim folicular,N,N,NO,N,N,N,N,N,N
+C-tapetat de mucus aerat A-folicular si cateva microeroz,N,N,NO,N,N,ERZZ,N,N,N
+C+ A muc palida volvulus gastr incomplet staza gastr cu alim,VGI,N,PAL,PAL,PAL,N,N,N,N
+C+A cong difuz,N,N,ER,ER,ER,N,N,N,N
+C+A cong difuz cu multiple eroziuni staza gastr moder cu suc gastr si sange digerat in cant mica,N,N,ER,ER,ER,N,N,N,N
+C+A folicular,N,N,NO,NO,NO,N,N,N,N
+C+A-accentuat folicular,N,N,NO,NO,NO,N,N,N,N
+C+A-cong difuz,N,N,ER,ER,ER,N,N,N,N
+C+A-cong difuz ,N,N,ER,ER,ER,N,N,N,N
+C+A-cong difuz tapetat de mucus aerat,N,N,ER,ER,ER,N,N,N,N
+C+A-eroz hemor acop part cu fibrina zone de hemor in panza,N,N,HE,HE,HE,ERZZ,ERZZ,ERZZ,N
+C+A-folicular,N,N,NO,NO,NO,N,N,N,N
+C+A-folicular parcelar de mozaic,N,N,NO,NO,NO,N,N,N,N
+C+A-microeroz hemor,N,N,N,N,N,ERZZ,ERZZ,ERZZ,N
+C+A-muc palida,N,N,PAL,PAL,PAL,N,N,N,N
+C+A-muc palida friabila la atingere,N,N,PAL,PAL,PAL,N,N,N,N
+cant mare bila A- cateva eroz,N,BI,N,N,N,ERZZ,N,N,N
+cant mare bila pilor boant,N,BI,N,N,N,N,N,N,DISK
+cant mare de bila in amestec cu suc gastr,N,BI; SU,N,N,N,N,N,N,N
+cant mare de bila si suc gastr,N,BI; SU,N,N,N,N,N,N,N
+cant mare de bila si suc gastr A-cong minim folicular pilor diskinetic,N,BI; SU,NO,N,N,N,N,N,DISK
+cant mare de bila F-petesii,N,BI,N,N,PE,N,N,N,N
+cant mare de sange in stomac care tapeteaza muc muc nu se poate vizualiza,N,SANG,N,N,N,N,N,N,N
+cant mare de suc gastr si bila in stomac A-minim folicular,N,BI; SU,NO,N,N,N,N,N,N
+cant mare de suc gastr si bila A-cong,N,BI; SU,ER,N,N,N,N,N,N
+cant mare de suc gastr si bila F-multiple petesii,N,BI; SU,N,N,PE,N,N,N,N
+cant mare de suc gastr muc mai palida,N,N,PAL,PAL,PAL,N,N,N,N
+cant mare suc gastr,N,N,N,N,N,N,N,N,N
+cant mare suc gastr+bila F pericardial-petesii,N,BI; SU,PE,N,PE,N,N,N,N
+cant moder de suc gastr si bila muc antral cong si edematiat difuz,N,N,ER,N,N,N,N,N,N
+cant moder bila,N,N,N,N,N,N,N,N,N
+cant moder bila in stomac,N,N,N,N,N,N,N,N,N
+cant moder de bila,N,N,N,N,N,N,N,N,N
+cant moder de bila in stomac JAC-folicular,N,N,NO,N,N,N,N,N,N
+cant moder de bila suc gastr si alim A-folicular,N,N,NO,N,N,N,N,N,N
+cant moder de sange,N,SANG,N,N,N,N,N,N,N
+cant moder de sange inchegat in stomac,N,SANG,N,N,N,N,N,N,N
+cant moder de suc gastr in stomac,N,N,N,N,N,N,N,N,N
+cant moder de suc gastr si bila,N,N,N,N,N,N,N,N,N
+cant moder de suc gastr si bila in stomac,N,N,N,N,N,N,N,N,N
+cant moder de suc gastr si bila in stomac A-minim cong,N,N,ER,N,N,N,N,N,N
+cant moder de suc gastr si bila in stomac pilor diskinetic RDG,RDG,N,N,N,N,N,N,N,DISK
+cant moder de suc gastr si bila A-cong minim folicular,N,N,NO,N,N,N,N,N,N
+cant moder de suc gastr si bila A-folicular,N,N,NO,N,N,N,N,N,N
+cant moder de suc gastr si mucus,N,N,N,N,N,N,N,N,N
+cant moder de suc gastr C-moneda,N,MONEDA,N,N,N,N,N,N,N
+cant moder suc gastr si bila in stomac A-folicular,N,N,NO,N,N,N,N,N,N
+cant moder suc gastr si bila in stomac A+C-muc cong,N,N,ER,ER,ER,N,N,N,N
+cant moder suc gastr si bila JAC-folicular,N,N,N,NO,N,N,N,N,N
+cant moder suc gastr A-folicular multiple eroz prepiloric form 0.5/0.5cm cu muc de acelasi aspect (pancreas ectopic),N,N,NO,N,N,ERZZ; 1 POL,N,N,N
+cant moder suc gastr F+A- cateva lez hemor A-folicular,N,N,NO,N,HE,N,N,N,N
+cardia competenta staza gastr cu mult suc gastr muc cong difuz folicular A-cong intens folicular 2 eroziuni,N,N,NO,NO,NO,ERZZ,N,N,N
+cardie boanta pliuri cardiale hipertrofiate volvulus gastr A-granitat,VG,N,NO,N,N,N,N,N,DISK
+Cma eroziune punctiforma,N,N,N,N,N,N,N,ERZ,N
+Cma polip prepiloric,N,N,N,N,N,N,N,POL,N
+Cma- 2-3 microeroz A-cong difuz,N,N,ER,N,N,N,N,ERZZ,N
+CMa-cateva eroz,N,N,N,N,N,N,N,N,ERZZ
+Cma-cateva eroz acoper cu fibrina pliu prepiloric mai edematiat,N,N,N,N,N,N,N,ERZZ,N
+Cma-cateva eroz A-tapetat de mucus aerat usor cong,N,A-MU,ER,N,N,N,N,ERZZ,N
+Cma-eroz fara hemor A-eroz fara hemor,N,N,N,N,N,ERZZ,N,ERZZ,N
+Cma-mica eroz acoper de crusta hematica,N,N,N,N,N,N,N,ERZZ,N
+Cma-polip prepiloric acop de muc identic,N,N,N,N,N,N,N,POL,N
+Cma+fata post- eroz cu caract hemor A-minim folicular,N,N,NO,N,N,N,N,ERZZ,N
+Cmi-eroz,N,N,N,N,N,N,N,ERZZ,N
+contractat staza gastrica cu bila antral minim folicular (spec jonct antru-corp),N,N,NO,NO,N,N,N,N,N
+corp normal antral accentuat folicular,N,N,NO,N,N,N,N,N,N
+corp normal antral accentuat folicular se extinde spre jonct antru-corp,N,N,NO,NO,N,N,N,N,N
+corp normal antral congest accentuat folicular,N,N,NO,N,N,N,N,N,N
+corp normal antru folicular si congestie moderata,N,N,NO,N,N,N,N,N,N
+corp normal antru minim aspect folicular pilor spastic,N,N,NO,N,N,N,N,N,SPAS
+corp normal jonct antru-corp multiple eroz antral folicular,N,N,NO,N,N,N,ERZZ,N,N
+corp fund normal antral minim folicular (spec jonct),N,N,N,NO,N,N,N,N,N
+Curb mic-ulcer cic C-ulc cic A-ulc cic ,N,N,N,N,N,CIC,N,CIC,N
+depoz de fibrina coaguli negri impied aprec corecta profunzz lez,N,SANG,N,N,N,N,N,N,N
+destins de volum cateva lez de decubit,DIL,N,N,N,N,N,N,N,N
+destins de volum fara staza A cong aspect de mozaic,DIL,N,MO,N,N,N,N,N,N
+destins de volum minima staza fara bila prepilorc lez ulceroase ce-l deformeaza,DIL,N,N,N,N,UG,N,N,N
+destins de volum staza gastr cu bila jonct A-C minim aspect folicular,DIL,N,N,NO,N,N,N,N,N
+destins de volum jonct A-C minim aspect folicular,DIL,N,N,NO,N,N,N,N,N
+destins fara piuri evidente muc aspect de piatra de pavaj A-prepiloric si in jur cateva eroz punctiforme cu caract hemor minim,DIL,N,MO,MO,MO,ERZZ,N,N,N
+destins in volum,DIL,N,N,N,N,N,N,N,N
+destins in volum C+A-eroz punctiforme cu caract hemor,DIL,N,N,N,N,ERZZ,ERZZ,ERZZ,N
+destins in volum min staza cu bila C-fara modif F-vasculariz vizibila A-minim aspect mozaic alocuri atrofic,DIL,N,AT,N,AT,N,N,N,N
+destins in volum staza cu bila si mult mucus aerat  A-accentuat mozaic si depoz de bila,DIL,A-BI; MU,MO,N,N,N,N,N,N
+destins in volum staza import cu bila si mult mucus  A-cong,DIL,N,ER,N,N,N,N,N,N
+destins pliuri aplatizate fara staza antral cateva hemoragii subepiteliale si parcelar aspect atrofic,DIL,N,AT,N,N,N,N,N,N
+destins sataza gastrica cu bila antral aspect mozaic,DIL,N,MO,N,N,N,N,N,N
+destins staza gastrica import dar fara bila ,DIL,N,N,N,N,N,N,N,N
+difuz lez erozivo-hemor de dimens si profunz difer,N,N,HE,HE,HE,ERZZ,ERZZ,ERZZ,N
+eroz acop de crusta hematica,N,N,N,N,N,ERZ,N,N,N
+eroziune pe un pliu piloric,N,N,N,N,N,ERZ,N,N,N
+F-1 cordon variceal,N,N,N,N,N,N,N,VAR,N
+F-cateva eroz hemor pericardiale reflux duodeno-gastr,RDG,N,N,N,F-HE,N,N,N,N
+F-cateva eroz supf A-cong si edematiat cant mare de bila in stomac,N,BI,ER,N,N,N,N,ERZZ,N
+F-cateva eroz supf RDG,RDG,N,N,N,N,N,N,ERZZ,N
+F-cateva hemor subepit,N,N,N,N,F-HE,N,N,N,N
+F-cateva petesii pericardial A-cong in mozaic minim folicular,N,N,ER,N,F-PE,N,N,N,N
+F-cateva petesii submuc cant moder de bila in stomac,N,N,N,N,F-PE,N,N,N,N
+F-cateva petesii cant mare de suc gastr si bila,N,N,N,N,F-PE,N,N,N,N
+F-cateva petesii staza gastr cu suc gastr si bila,N,N,N,N,F-PE,N,N,N,N
+F-cong,N,N,N,N,F-ER,N,N,N,N
+F-eroz supf,N,N,N,N,N,N,N,ERZZ,N
+F-eroziuni punctiforme,N,N,N,N,N,N,N,ERZZ,N
+F-gastrita fizica A-mozaic cateva petesii,N,N,MO,N,F-PE,N,N,N,N
+F-hemor epit staza gastr cu mult mucus,N,N,N,N,F-HE,N,N,N,N
+F-hemor subepit,N,N,N,N,F-HE,N,N,N,N
+F-hemor subepit (posib prolaps gastr),N,N,N,N,F-HE,N,N,N,N
+F-hemor subepit (rezult in urma prolaps gastr),N,N,N,N,F-HE,N,N,N,N
+F-hemor subepit punctiforme Cmi-hemor punctiforme A-piatra de pavaj muc cong,N,N,NO,N,F-HE,N,N,N,N
+F-hemor subepit A-piatra de pavaj,N,N,NO,N,F-HE,N,N,N,N
+F-hemor subepit fara semne HTP,N,N,N,N,F-HE,N,N,N,N
+F-lez hemor supf,N,N,N,N,F-HE,N,N,N,N
+F-mici eroz hemor,N,N,N,N,N,N,N,ERZZ,N
+F-microcicatricial A-folicular impregnat cu bila pilor diskinetic,N,N,NO,N,N,N,N,CIC,DISK
+F-microeroz,N,N,N,N,N,N,N,ERZZ,N
+F-micropetesii,N,N,N,N,F-PE,N,N,N,N
+F-minima cong,N,N,N,N,ER,N,N,N,N
+F-multe petesii A-folicular,N,N,NO,N,F-PE,N,N,N,N
+F-multiple eroz supf 1 ulcer acoper cu crusta hematica,N,N,N,N,N,N,N,UG,N
+F-multiple petesii,N,N,N,N,F-PE,N,N,N,N
+F-multiple petesii A-cong pilor incontinent,N,N,ER,N,F-PE,N,N,N,DISK
+F-multiple petesii cant mare bila,N,N,N,N,F-PE,N,N,N,N
+F-numer hemor subepit in lichidul de staza cheaguri de sange,N,SANG,N,N,F-HE,N,N,N,N
+F-petesii,N,N,N,N,F-PE,N,N,N,N
+F-petesii precardial,N,N,N,N,F-PE,N,N,N,N
+F-petesii eroziuni hemor,N,N,N,N,F-PE,N,N,ERZZ,N
+F-petesii A-cong,N,N,ER,N,F-PE,N,N,N,N
+"F-petesii A-cong ""in mozaic"" spasm piloric cant mare suc gastr in stomac",N,N,MO,N,F-PE,N,N,N,DISK
+F-petesii A-minim folicular pilor larg deschis,N,N,NO,N,F-PE,N,N,N,DISK
+F-posibile lez,N,N,N,N,N,N,N,N,N
+F-sufuziuni hemor probab prolaps gastr A-minim folicular,N,N,NO,N,F-HE,N,N,N,N
+F-UG,N,N,N,N,N,N,N,UG,N
+F+A-multiple eroz superf hemor,N,N,N,N,N,ERZZ,N,ERZZ,N
+fara HTP,N,N,N,N,N,N,N,N,N
+folicular,N,N,NO,NO,NO,N,N,N,N
+folicular C-accentuat folicular,N,N,NO,NO,NO,N,N,N,N
+fund eroziune superf fata ant si post cateva hemor subepit punctiforme,N,N,N,N,F-HE,N,N,ERZ,N
+gastropatie HT staza gastr,N,N,N,N,N,N,N,N,N
+hemor subepit fundus antral folic,N,N,NO,N,N,N,N,N,N
+hipoton alungit muc norm,N,N,N,N,N,N,N,N,N
+intens folicular,N,N,NO,NO,NO,N,N,N,N
+intreg stomac folicular,N,N,NO,NO,NO,N,N,N,N
+J+A-folicular,N,N,N,NO,N,N,N,N,N
+jonct A-C folicular,N,N,N,NO,N,N,N,N,N
+jonct A-C folicular A-cong in mozaic pilor spastic,N,N,MO,NO,N,N,N,N,SPAS
+jonct C-A cong cu mozaic,N,N,N,MO,N,N,N,N,N
+jonct C-A folicular,N,N,N,NO,N,N,N,N,N
+jonct C-A folicular A-folicular,N,N,NO,NO,N,N,N,N,N
+jonct C-A folicular cant mica bila in stomac,N,N,N,NO,N,N,N,N,N
+jonct C-A minim aspect folicular,N,N,N,NO,N,N,N,N,N
+jonct eso-gastr leziune liniara acoperita cu fibrina,N,N,N,N,N,N,N,ERZ,N
+jonct scuamo-columnara polip cu baza larga de implantare ce obstr aprox 50% din circumf cardiei stomac dilat,DIL,N,N,N,N,N,N,POL,N
+jonct-F depoz de fibrina sub care eroz?,N,N,N,N,N,N,N,ERZ,N
+lez erozivo-hemor A-folicular,N,N,NO,N,N,N,N,ERZ,N
+mare partial volvulat muc corp si antru palida ,VG,N,PAL,PAL,PAL,N,N,N,N
+mare destins corp fund fara modif antral folicular ,DIL,N,NO,N,N,N,N,N,N
+minim aspect folicular antral,N,N,NO,N,N,N,N,N,N
+minim aspect folicular mult mucus aerat,N,N,NO,NO,NO,N,N,N,N
+minim folicular,N,N,NO,NO,NO,N,N,N,N
+minim reflux biliar,N,N,N,N,N,N,N,N,N
+minima staza gastr cu bila,N,N,N,N,N,N,N,N,N
+minima staza gastr cu bila la niv fundului gastr sunt prez lez punctiforme subepit (posib prolaps gastr) ,N,N,N,N,F-PE,N,N,N,N
+minima staza gastr cu bila minim folicular,N,N,NO,N,N,N,N,N,N
+minima staza gastr fara bila ,N,N,N,N,N,N,N,N,N
+minima staza gastr fara bila A-hemor subepit (posib gastrita medicament),N,N,HE (MEDIC),N,N,N,N,N,N
+"minima staza gastr A-accentuat ""piatra de pavaj""",N,N,MO,N,N,N,N,N,N
+minima staza gastr A-accentuat folicular pilor deformat pliuri edematiate eroziuni punctiforme,N,N,NO,N,N,ERZZ,N,N,DISK
+minima staza gastr A-minim regional,N,N,N,N,N,N,N,N,N
+moderata staza gastr cu suc gastr si bila A-folicular cateva eroz,N,BI; SU,NO,N,N,ERZZ,N,N,N
+moneda de 50 bani in corpul gastr,N,MONEDA,N,N,N,N,N,N,N
+moneda la nivel gastric,N,MONEDA,N,N,N,N,N,N,N
+muc acoper de mucus aderent pilor diskinetic,N,N,N,N,N,N,N,N,DISK
+muc cong,N,N,ER,ER,ER,N,N,N,N
+muc cong difuz f friabil la atingere,N,N,ER,ER,ER,N,N,N,N
+muc cong difuz A-cong tapetat de bila,N,A-BI,ER,ER,ER,N,N,N,N
+muc cong accentuat folicular,N,N,NO,NO,NO,N,N,N,N
+muc cong bila aderent de pereti,N,BI,ER,ER,ER,N,N,N,N
+muc corp cu pliuri edematiata A-folicular accent,N,N,NO,N,N,N,N,N,N
+muc corp edematiata A-folicular,N,N,NO,N,N,N,N,N,N
+muc cu aspect nodular (gastrita limfocitara?),N,N,NO,NO,NO,N,N,N,N
+muc cu microeroz hemor A-minim folicular cant moder de bila si suc gastr in stomac,N,N,NO,N,N,ERZZ,N,N,N
+muc edematiat cong si friabil lez hemor acoper cu fibrina,N,N,N,N,N,ERZZ,ERZZ,ERZZ,N
+muc fara modif dar tapetat de mucus aerat muc prepiloric edematiat pseudopolipoid,N,N,N,N,N,N,N,N,N
+muc folicular (pangastrita),N,N,NO,NO,NO,N,N,N,N
+muc folicular mai accentuat la C,N,N,NO,NO,NO,N,N,N,N
+muc folicular mai accentuat la jonct C-A,N,N,NO,NO,NO,N,N,N,N
+muc foliculara cu multiple lez punctiforme cu caract hemor,N,N,NO,NO,NO,ERZZ,ERZZ,ERZZ,N
+muc friabila si usor edematiata,N,N,N,N,N,N,N,N,N
+muc fundica prez cateva eroz supf,N,N,N,N,N,N,N,ERZZ,N
+muc fundica prez cateva eroz supf precardial,N,N,N,N,N,N,N,ERZZ,N
+muc hipotrofica,N,N,PAL,PAL,PAL,N,N,N,N
+muc hipotrofica palida,N,N,PAL,PAL,PAL,N,N,N,N
+muc hipotrofica A-minim folicular,N,N,NO,PAL,PAL,N,N,N,N
+muc mai palida hipotrofica,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida cu circulatia vizibila,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida si hipotrofica staza gastr import cant mare de mucus aderent,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida foarte friabila jonct A-C ulceratii acoperita fibrina,N,N,PAL,PAL,PAL,N,UG,N,N
+muc palida friabila,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida hipotrofica,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida microeroz,N,N,PAL,PAL,PAL,ERZZ,ERZZ,ERZZ,N
+muc palida mucus impregn cu bila,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida pliuri sterse,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida A-accentuat mozaic,N,N,PAL,PAL,PAL,N,N,N,N
+muc palida Cma-cateva eroz,N,N,PAL,PAL,PAL,N,N,ERZZ,N
+muc palida edem prepiloric,N,N,PAL,PAL,PAL,N,N,N,N
+muc tenta verzuie,N,BI,N,N,N,N,N,N,N
+muc usor atrofic minima staza cu bila,N,N,N,N,N,N,N,N,N
+mucoasa tapetat de mucus aerat A-cong difuza,N,N,ER,N,N,N,N,N,N
+mucus aerat impregn cu bila,N,N,N,N,N,N,N,N,N
+mucus aerat A-cong difuz minim folicular pilor spastic,N,N,NO,N,N,N,N,N,SPAS
+mucus aerat jonct A-C minim aspect folicular,N,N,N,N,N,N,N,N,N
+mult mucus aerat,N,N,N,N,N,N,N,N,N
+mult mucus aerat ce tapeteaza muc,N,N,N,N,N,N,N,N,N
+mult mucus aerat la nivelul corpului gastr pilor mai spastic,N,N,N,N,N,N,N,N,SPAS
+mult mucus aerat A-accentuat folicular extins spre jonct A-C,N,N,NO,NO,N,N,N,N,N
+multiple lez eroz hemor de profunzime mai numer F+C,N,N,N,N,N,ERZZ,ERZZ,ERZZ,N
+multiple lez punctiforme si eroz hemor staza gastr import cu sange,N,SANG,N,N,N,N,N,N,N
+multiple lez ulcero-hemor,N,N,N,N,N,N,N,UG,N
+normal,N,N,N,N,N,N,N,N,N
+nu,NU,NU,NU,NU,NU,NU,NU,NU,NU
+nu mai are polip,NU,NU,NU,NU,NU,NU,NU,NU,NU
+nu se poate exam,NU,NU,NU,NU,NU,NU,NU,NU,NU
+nu se progr,NU,NU,NU,NU,NU,NU,NU,NU,NU
+part volvulat marea curbura cu eroziuni unele mai vechi acoperite cu fibrina pilor larg deschis diskinetic,VGI,N,N,N,N,N,N,ERZZ,DISK
+partial volvulat,VGI,N,N,N,N,N,N,N,N
+partial volvulat cu muc palida cu circulatie vizibila,VGI,N,PAL,PAL,PAL,N,N,N,N
+partial volvulat antral folicular,VGI,N,NO,N,N,N,N,N,N
+partial volvulat C+A cong difuz,VGI,N,ER,ER,ER,N,N,N,N
+partial volvulat C-cong difuz friabil,VGI,N,N,N,ER,N,N,N,N
+partial volvulat muc cong friabil,VGI,N,N,N,N,N,N,N,N
+pilor diskinetic,N,N,N,N,N,N,N,N,DISK
+pilor larg deschis aton,N,N,N,N,N,N,N,N,DISK
+pilor spastic dar permeabil,N,N,N,N,N,N,N,N,SPAS
+pliu eso-gastric hipertrofiat,N,N,N,N,N,N,N,N,N
+pliu pseudopolipoid prepiloric,N,N,N,N,N,N,N,PH,N
+pliuri cardiale hipertrofiate C-pliuri edematiate cong A-minim folicular,N,N,NO,N,N,N,N,PH,N
+pliuri cardiale mai edematiate A-folicular,N,N,NO,N,N,N,N,N,N
+pliuri cardiale mai hipertrofiate,N,N,N,N,N,N,N,N,N
+pliuri corp mai edematiate tapet cu mucus aerat A-folic,N,N,NO,N,N,N,N,N,N
+pliuri edematiate usor nereg jonct A-C folicular (mult ameliorat fata de exam preced),N,N,N,NO,N,N,N,PGE,N
+pliuri gastr edematiate cu caract pseudopolipoid,N,N,N,N,N,N,N,PGE,N
+pliuri gastr edematiate tortuoase cu multiple eroz pe varf A-folicular,N,N,NO,N,N,N,N,PGE; ERZZ,N
+pliuri gastrice edematiate A-cong difuz A-polip 0.5/0.5 cm,N,N,ER,N,N,POL,N,N,N
+pliuri gastrice hipertrofiate,N,N,N,N,N,N,N,PGH,N
+pliuri gastrice hipertrofiate muc corp mai palida JAC-cateva eroz,N,N,N,N,PAL,N,ERZZ,PGH,N
+pliuri gastrice tortuoase edematiate,N,N,N,N,N,N,N,PGE,N
+pliuri hipertrofiate pana la niv antral,N,N,N,N,N,N,N,PGH,N
+pliuri hipertrofiate edematiate tortuoase ce nu raspund la insuflarea de aer pseudopolipoidal,N,N,N,N,N,N,N,PGH,N
+pliuri hipertrofiate A-accentuat folicular,N,N,NO,N,N,N,N,PGH,N
+pliuri mai hipetrofiate J+A-folicular marcat,N,N,N,NO,N,N,N,PGH,N
+pliuri mari hipertrofiate antral folicular intens,N,N,NO,N,N,N,N,PGH,N
+pliuri muc gastr hipertrofiate A-folicular,N,N,NO,N,N,N,N,PGH,N
+pliuri sterse,N,N,N,N,N,N,N,N,N
+prepiloric eroz,N,N,N,N,N,ERZ,N,N,N
+prepiloric eroz supf,N,N,N,N,N,ERZ,N,N,N
+prolaps de muc duod in stomac,RDG,N,N,N,N,N,N,N,N
+RDG,RDG,N,N,N,N,N,N,N,N
+RDGE,RDGE,N,N,N,N,N,N,N,N
+reflux biliar,RDG,N,N,N,N,N,N,N,N
+reflux DG ,RDG,N,N,N,N,N,N,N,N
+reflux duodeno-gastric,RDG,N,N,N,N,N,N,N,N
+reflux duodeno-gastric moder,RDG,N,N,N,N,N,N,N,N
+resturi alim,N,N,N,N,N,N,N,N,N
+staza biliara import cu cheaguri sang,N,SANG,N,N,N,N,N,N,N
+staza cu suc gastr si bila A-cong difuz+accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr,N,N,N,N,N,N,N,N,N
+staza gastr cu alim,N,N,N,N,N,N,N,N,N
+staza gastr cu alim ,N,N,N,N,N,N,N,N,N
+staza gastr cu alim (bezoar gastr) A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu alim gelificate (bezoar),N,N,N,N,N,N,N,N,N
+staza gastr cu alim A-minim cong f friabila la atingere pilor spastic,N,N,ER,N,N,N,N,N,SPAS
+staza gastr cu alim antral cong difuz ,N,N,ER,N,N,N,N,N,N
+staza gastr cu alim antral cong difuz cu aspect folicular depoz mucus cu bila multiple lez petesiale,N,N,NO; PE,N,N,N,N,N,N
+staza gastr cu alim stomac part volvulat muc palida A-cong difuz,VGI,N,ER,PAL,PAL,N,N,N,N
+staza gastr cu bila,N,N,N,N,N,N,N,N,N
+staza gastr cu bila aderent de muc,N,N,N,N,N,N,N,N,N
+staza gastr cu bila aderenta A-cong,N,N,ER,N,N,N,N,N,N
+staza gastr cu bila ce tapet muc gastr,N,BI,N,N,N,N,N,N,N
+staza gastr cu bila anast permeabila curata in jurul anast cateva eroz punctiforme,N,N,N,N,N,N,N,N,N
+staza gastr cu bila muc cong,N,N,N,N,N,N,N,N,N
+staza gastr cu bila muc galben verzuie A-minim aspect folicular,N,BI,NO,N,N,N,N,N,N
+staza gastr cu bila A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-folicular ,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-folicular accentuat,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-folicular si depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu bila A-hemor (hemor subepit si cateva eroz) prepiloric 2 ulcere,N,N,HE,N,N,2 UG,N,N,N
+staza gastr cu bila A-min folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila A-minima cong,N,N,ER,N,N,N,N,N,N
+staza gastr cu bila C-2-3 lez punctiforme A-minim folicular,N,N,NO,N,N,N,N,ERZZ,N
+staza gastr cu bila C+A-eroz punctiforme cu minim centru hemor,N,N,N,N,N,ERZZ,ERZZ,ERZZ,N
+staza gastr cu bila eroz punctiforme prepiloric,N,N,N,N,N,ERZZ,N,N,N
+staza gastr cu bila F-multiple eroz punctiforme pe muc cong (pangastrita),N,N,N,N,ER,N,N,ERZZ,N
+staza gastr cu bila jonct A-C aspect folicular,N,N,N,NO,N,N,N,N,N
+staza gastr cu bila muc discret cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr cu bila muc edematiata A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu bila muc tapetat cu mucus impregn cu bila,N,BI; MU,N,N,N,N,N,N,N
+staza gastr cu bila mucus impregn cu bila aderent de mucoasa,N,BI; MU,N,N,N,N,N,N,N
+staza gastr cu bila pilor diskinetic,N,N,N,N,N,N,N,N,DISK
+staza gastr cu bila post+A-eroz punctiforme hemor,N,N,N,N,N,ERZZ,N,ERZZ,N
+staza gastr cu bila stomac spastic,N,N,N,N,N,N,N,N,N
+staza gastr cu bila unghi gastr-eroz punctiforme cu caract hemor cu o eroz areolara,N,N,N,N,N,N,N,ERZZ,N
+staza gastr cu cant mare de suc gastr si sange (cant mica) muc atrofica cu eroz hemor,N,SANG,AT,AT,AT,ERZZ,ERZZ,ERZZ,N
+staza gastr cu cant moder de suc gastr si bila A-cong difuz tapetat de mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr cu cont alim A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu depoz de bila A-usor atrofic,N,N,AT,N,N,N,N,N,N
+staza gastr cu f multa bila,N,BI,N,N,N,N,N,N,N
+staza gastr cu moderat continut de suc gastr si bila A-accentuat folicular fara cong,N,N,NO,N,N,N,N,N,N
+staza gastr cu moderat suc gastr ,N,N,N,N,N,N,N,N,N
+staza gastr cu moderat suc gastr A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu muc mai edematiata A-cong difuz pliuri prepiloric edematiate,N,N,ER,N,N,PGE,N,N,N
+staza gastr cu mult mucus aerat si bila,N,N,N,N,N,N,N,N,N
+staza gastr cu mult mucus si bila muc discret cong,N,N,N,N,N,N,N,N,N
+staza gastr cu mult mucus A-cong difuz microfolicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult sange digerat A-cateva microeroz cant mare de sange din stomac este posibil din alta sursa (epistaxis),N,SANG,N,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr,N,N,N,N,N,N,N,N,N
+staza gastr cu mult suc gastr si alim A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si alim A-cong difuz tapetat de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si alim A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila,N,BI; SU,N,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila cu resturi alim C+A-folicular Cma+A-multiple eroz ,N,BI; SU,NO,NO,NO,ERZZ,ERZZ,ERZZ,N
+staza gastr cu mult suc gastr si bila A si JAC-accentuat folicular,N,BI; SU,NO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-accentuat mozaic,N,BI; SU,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-accentut mozaic si parcelar folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong,N,BI; SU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz,N,BI; SU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz cu depoz de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz impregn cu bila,N,A-BI,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat cu mucus aera impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat cu mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat de mucus ,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz accentuat folicular,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz cu aspect de mozaic,N,A-BI; MU,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz cu mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz folicular ,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz folicular si cateva eroz,N,BI; SU,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz folicular cateva eroz,N,BI; SU,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz multiple eroz Cma-multiple eroz,N,BI; SU,ER,N,N,ERZZ,N,ERZZ,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila folicular,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz accent folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong difuz pilor larg deschis diskinetic,N,BI; SU,ER,N,N,N,N,N,DISK
+staza gastr cu mult suc gastr si bila A-cong difuz pilor spastic,N,BI; SU,ER,N,N,N,N,N,SPAS
+staza gastr cu mult suc gastr si bila A-cong difuza folicular si 6 formatiuni ombilicate cu mucoasa de acoperire de acelasi aspect cu cel al mucoasei din jur baza usor cong,N,BI; SU,ER,N,N,POL,N,N,N
+staza gastr cu mult suc gastr si bila A-cong intens microfolicular depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong intens zone de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong si folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-cong folicular intens,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular si depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular si multe petesii,N,BI; SU,NO; PE,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular si zone de mucus impregnat cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-folicular prepiloric ulcer mic 0.5/0.5 cm acoperit de fibrina,N,BI; SU,NO,N,N,UG,N,N,N
+staza gastr cu mult suc gastr si bila A-intens cong RDG import,RDG,BI; SU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-minim folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-mozaic,N,BI; SU,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-mozaic si leziuni petesiale,N,BI; SU,MO; PE,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-palid,N,BI; SU,PAL,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila A-palida pilor larg deschis,N,BI; SU,PAL,N,N,N,N,N,DISK
+staza gastr cu mult suc gastr si bila A+C-cong difuz accentuat folic,N,BI; SU,NO,NO,NO,N,N,N,N
+staza gastr cu mult suc gastr si bila A+C-cong difuz tapetat de mucus impregn cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila A+Cmi multiple erzo si depozite de mucus impregn cu bila pilor larg deschis diskinetic,N,BI; SU,N,N,N,ERZZ,ERZZ,ERZZ,DISK
+staza gastr cu mult suc gastr si bila A+JAC-folicular accentuat,N,BI; SU,NO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr si bila antral folicular congestie intensa mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila C-cong difuz A-aspect de mozaic si depozite de mucus impregn cu bila,N,A-BI; MU,MO,N,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C-multiple eroz A-accentuat folicular,N,BI; SU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila C-pliuri mai edematiate A-cong difuz,N,BI; SU,ER,N,N,N,N,PGE,N
+staza gastr cu mult suc gastr si bila C+A-cong difuz tapetat de mucus impregn cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-cong difuz cu zone de mucus impregn cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-cong difuz tapetat de mucus impregn cu bila pilor larg deschis diskinetic,N,BI; SU,ER,ER,ER,N,N,N,DISK
+staza gastr cu mult suc gastr si bila C+A-cong difuz A-minim folicular pilor spastic,N,BI; SU,NO,ER,ER,N,N,N,SPAS
+staza gastr cu mult suc gastr si bila C+A-cong difuza muc tapet de mucus impregn cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-cong difuza si zone de mucus impregnat cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-cong intens tapetat de mucus impregn cu bila,N,BI; SU,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-folicular,N,BI; SU,NO,NO,NO,N,N,N,N
+staza gastr cu mult suc gastr si bila C+A-multiple depozite de mucus impregn cu bila,N,BI; SU,N,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila Cma si A multiple eroz (peste 100) si zone de mucus impregn cu bila,N,A-BI; MU,N,N,N,ERZZ,ERZZ,ERZZ,N
+staza gastr cu mult suc gastr si bila cong difuza cu eroz A-intens cong,N,BI; SU,ER,ER,ER,ERZZ,ERZZ,ERZZ,N
+staza gastr cu mult suc gastr si bila muc cong difuz tapetat de mucus impregn cu bila prepiloric prez cateva 2-3 eroz,N,BI; SU,ER,ER,ER,ERZZ,N,N,N
+staza gastr cu mult suc gastr si bila muc cong difuz A-cong difuz tapetat de mucus impregn cu bila,N,BI; SU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si bila pliuri cardiale hipertrofiate muc intens cong cu multiple eroz,N,BI; SU,ER,ER,ER,ERZZ,ERZZ,ERZZ,N
+staza gastr cu mult suc gastr si bila prepiloric ulcer 0.5/0.5cm acoperit de fibrina,RDGE,BI; SU,N,N,N,UG,N,N,N
+staza gastr cu mult suc gastr si bila reflux biliar DGE A-cong difuz tapetat de mucus impregn cu bila pancreas estopic,RDGE,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si mucus aerat A-cong JAC-folicular,N,N,ER,NO,N,N,N,N,N
+staza gastr cu mult suc gastr si mucus aerat A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si mult mucus A-cong si folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si resturi alim A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr si resturi alim A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr si sange digerat A+Cma-multiple eroz,N,SANG,N,N,N,ERZZ,ERZZ,ERZZ,N
+staza gastr cu mult suc gastr bila si mucus aerat A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A cong difuz cu aspect folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A si jonct A-C accentuat folicular,N,N,NO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-aspect de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong cu lez petesiale,N,N,ER; PE,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz cu 2-3 microeroziuni,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz cu multiple eroz jonct A-C folicular,N,N,ER,NO,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz pseudopolipoid cu zone de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz tapetat cu bila,N,A-BI,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz tapetat cu mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz accentuat folicular cu cateva eroz pilor spastic,N,N,NO,N,N,ERZZ,N,N,SPAS
+staza gastr cu mult suc gastr A-cong difuz aspect de mozaic,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz cateva eroz,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz folicular cu multiple eroz,N,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz folicular pilor cu pliuri edematiate,N,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz folicular pilor spastic peripiloric eroz,N,N,NO,N,N,ERZZ,N,N,SPAS
+staza gastr cu mult suc gastr A-cong difuz microfolicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz multiple eroz parcelar folicular,N,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz tapet cu mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz tapetat cu mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz tapetat cu mucus impregn cu bila si cateva eroz,N,A-BI; MU,ER,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr A-cong difuz accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz J-folicular,N,N,ER,NO,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuz JAC-minim folicular pilor spastic,N,N,ER,NO,N,N,N,N,SPAS
+staza gastr cu mult suc gastr A-cong difuza,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong difuza si cateva eroz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-cong intens folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-discreta aspect de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular accentuat,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular si parcelar depozite de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular cong moder,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular de mozaic cateva lez petesiale,N,N,NO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr A-folicular jonct A-C folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-friabil,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-minim cong,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-mozaic atrofic cu vasc vizibila,N,N,AT,N,N,N,N,N,N
+staza gastr cu mult suc gastr A-mozaic jonct A-C folicular,N,N,MO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr A-palid cu circul vizibila,N,N,PAL,N,N,N,N,N,N
+staza gastr cu mult suc gastr A+C-cong difuza,N,N,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr A+JAC-accentuat folicular,N,N,NO,NO,N,N,N,N,N
+staza gastr cu mult suc gastr antral congest difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu mult suc gastr C-cong difuz cateva eroz acop cu fibrina A-mozaic,N,N,MO,N,ER,N,N,ERZZ,N
+staza gastr cu mult suc gastr C-folicular A-accentuat folicular,N,N,NO,NO,NO,N,N,N,N
+staza gastr cu mult suc gastr C-muc edematiat A-folicular jonct A-Ccateva ulcere ? 0.5/0.5 cm,N,N,NO,N,N,N,UG,N,N
+staza gastr cu mult suc gastr C+A-accent folicular,N,N,NO,NO,NO,N,N,N,N
+staza gastr cu mult suc gastr C+A-cong intens tapetat de mucus aerat,N,N,ER,ER,ER,N,N,N,N
+staza gastr cu mult suc gastr Cma-7-8 eroz A-cong difuz,N,N,ER,N,N,N,N,ERZZ,N
+staza gastr cu mult suc gastr Cma-multiple eroz A-cong difuz cateva eroz,N,N,ER,N,N,ERZZ,N,ERZZ,N
+staza gastr cu mult suc gastr muc corp edematiata A-cong difuz cu multiple eroz,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr parcelar depozite de mucus impregn cu bila,N,N,N,N,N,N,N,N,N
+staza gastr cu mult suc gastr stomac partial volvulat A-accentuat folicular cu cateva eroziuni,VGI,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu mult suc gastr stomac partial volvulat A-cong accentuat folicular cu cateva lez petesiale,VGI,N,NO; PE,N,N,N,N,N,N
+staza gastr cu mult suc gastr stomac partial volvulat A-folicular,VGI,N,NO,N,N,N,N,N,N
+staza gastr cu mult suc ,N,N,N,N,N,N,N,N,N
+staza gastr cu multa bila,N,N,N,N,N,N,N,N,N
+staza gastr cu multa bila (RDG) muc cong difuz tapetat de mucus impregn cu bila,RDG,BI,ER,ER,ER,N,N,N,N
+staza gastr cu multa bila ader de pereti accentuat folicular,N,BI,NO,NO,NO,N,N,N,N
+staza gastr cu multa bila ader de pereti muc cong F si prepiloric 2-3 hemor epit punctiforme,N,BI,HE,ER,HE,N,N,N,N
+staza gastr cu multa bila ader muc cong,N,BI,ER,ER,ER,N,N,N,N
+staza gastr cu multa bila aderenta muc intens cong pilor larg deschis RDG,RDG,BI,ER,ER,ER,N,N,N,DISK
+staza gastr cu multa bila si suc gastr A-cong difuz depozite de mucus impregn cu bila ,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu multa bila si suc gastr C-cong difuz depozite de mucus impregn cu bila A-accentuat folicular,N,BI; MU,NO,N,ER,N,N,N,N
+staza gastr cu multa bila aderente de muc ,N,BI,N,N,N,N,N,N,N
+staza gastr cu multa bila C+A cong difuz depoz de mucus cu bila,N,BI,ER,ER,ER,N,N,N,SPAS
+staza gastr cu multa bila muc cong A-mozaic,N,N,MO,ER,ER,N,N,N,N
+staza gastr cu multa bila stomac spastic,N,N,N,N,N,N,N,N,N
+staza gastr cu multa bila stomac spastic muc verzuie,N,BI,N,N,N,N,N,N,N
+staza gastr cu multa bila A-cong difuz cu nr eroz,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu multa bila A-cong difuz tapetat cu mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu multa bila A-cong difuz tapetat cu mucus impregn cu bila pilor larg deschis,N,A-BI; MU,ER,N,N,N,N,N,DISK
+staza gastr cu multa bila A-cong difuz folicular si parcelar mucus impregn cu bila,N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-cong difuz mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu multa bila A-difuz cong,N,N,ER,N,N,N,N,N,N
+staza gastr cu multa bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-folicular edematiat,N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-folicular leziuni punctiforme si hemor subepit,N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-folicular pe fond de mozaic (zone cong alternand cu zone palide),N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu multa bila A-usor cong,N,N,ER,N,N,N,N,N,N
+staza gastr cu multa bila A+C-cong difuza cu zone de mucus impregn cu bila,N,N,ER,ER,ER,N,N,N,N
+staza gastr cu multa bila corp antru cong difuz impregn bila,N,A-BI,ER,N,N,N,N,N,N
+staza gastr cu multa bila in axul mic Cmi in reg antrala prez o eroz (posib ulcer) cu caract minim hemor inconj de fibrina,N,N,N,N,N,N,N,UG,N
+staza gastr cu multa bila la niv mari curb cateva hemor subepit antral folicular tapetat cu bila,N,A-BI,NO,N,HE,N,N,N,N
+staza gastr cu multa bila muc accentuat folicular,N,BI,NO,NO,NO,N,N,N,N
+staza gastr cu multa bila muc cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr cu multa bila muc cong difuz tapetat de mucus impregn cu bila,N,BI; MU,ER,ER,ER,N,N,N,N
+staza gastr cu multa bila mucus impregn cu bila,N,BI; MU,N,N,N,N,N,N,N
+staza gastr cu multa bila volvulus gastr incomplet antru fara lez jonct antru-corp folic,VGI,N,N,NO,N,N,N,N,N
+staza gastr cu resturi alim,N,N,N,N,N,N,N,N,N
+staza gastr cu resturi alim si bila,N,N,N,N,N,N,N,N,N
+staza gastr cu resturi alim impiedica exam,N,N,N,N,N,N,N,N,N
+staza gastr cu resturi alim A-folicular cu 2 eroz,N,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu resturi alim cong difuza a muc gastr A-minim folicular,N,N,NO,ER,ER,N,N,N,N
+staza gastr cu resturi alim zona de anastomoza fara lez,N,N,N,N,N,N,N,N,N
+staza gastr cu suc gastr,N,N,N,N,N,N,N,N,N
+staza gastr cu suc gastr si alim din seara precedenta C-lez petesiale A-cong folicular,N,N,NO,N,PE,N,N,N,N
+staza gastr cu suc gastr si bila,N,N,N,N,N,N,N,N,N
+staza gastr cu suc gastr si bila si mult mucus,N,N,N,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-accentuat mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz impregn cu bila,N,A-BI,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz si zone de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz tapetat de mucus impregn cu bila cu 2-3 eroz,N,A-BI; MU,ER,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz accentuat folicular,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz mica eroz prepiloric,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz tapeta cu mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz tapeta cu mucus impregn cu bila cu cateva eroz,N,A-BI; MU,ER,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz tapetat cu mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-folicular si depoz de mucus impregn cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-impregn cu bila,N,A-BI,N,N,N,N,N,N,N
+staza gastr cu suc gastr si bila A-mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila C-cong difuz tapetat de mucus impregn cu bila Cma-eroz aprox 1.5/1.5 cm A-mozaic,N,BI; MU,MO,N,ER,N,N,N,N
+staza gastr cu suc gastr si bila C-mai edematiat A-folicular tapetat de mucus,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila C-norm A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si bila C-pliuri hieptrofiate ce raspund la insuflare de aer A-cong difuz aspect folicular prepiloric 2 ulcere mici si cateva eroz pilor larg deschis,N,N,NO,N,N,UG,N,PGH,DISK
+staza gastr cu suc gastr si bila C+A-cong difuz pilor larg deschis diskinetic,N,N,ER,ER,ER,N,N,N,DISK
+staza gastr cu suc gastr si bila C+A-cong folicular,N,N,NO,NO,NO,N,N,N,N
+staza gastr cu suc gastr si bila jonct A-C folicular,N,N,N,NO,N,N,N,N,N
+staza gastr cu suc gastr si bila jonct C-A folicular,N,N,N,NO,N,N,N,N,N
+staza gastr cu suc gastr si bila muc cong difuz A-cong difuz folicular cu cateva eroz,N,N,NO,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si microcheaguri de sange C+A-multiple eroz A-ulcer mic 0.5/0.5 cm acoper cu fibrina,N,SANG,N,N,N,UG,ERZZ,ERZZ,N
+staza gastr cu suc gastr si mucus aerat A-accentuat folicular 1 ulceratie acoper cu fibrina,N,N,NO,N,N,UG,N,N,N
+staza gastr cu suc gastr si mucus aerat A-accentuat mozaic parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr si mucus aerat A-aspect de mozaic 1-2 eroz,N,N,MO,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si mucus aerat A-cong difuz aspect accentuat de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu suc gastr si mucus aerat A-cong difuz edematiat depoz de mucus impregn cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si mucus aerat A-minim cong impregn cu bila,N,A-BI,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si mucus aerat A-mozaic o form 0.5/0.5 cm ombilicata cu mucoasa de acoperire de acelasi aspect cu cel al reg antrale (pancreas ectopic),N,N,MO,N,N,POL,N,N,N
+staza gastr cu suc gastr si mucus A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si putina bila A-cong edematiat tapaetat de mucus aerat si bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr si resturi de lapte A-mai palida,N,N,PAL,N,N,N,N,N,N
+staza gastr cu suc gastr si sange diger A-cong difuz folicular cu multiple eroz,N,SANG,ER,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr si sange digerat C+A-multiple eroziuni prepiloric-ulcer 1/1 cm acoper de fibrina si cruste hematice pilor larg deschis diskinetic,N,SANG,N,N,N,UG,ERZZ,ERZZ,DISK
+staza gastr cu suc gastr bila si mucus aerat A-cong mucus cu bila,N,A-BI; MU,ER,N,N,N,N,N,N
+staza gastr cu suc gastr mucus si bila A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr A cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr A-accent folicular cong multiple ,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuz cu 2 mici eroz,N,N,ER,N,N,ERZZ,N,N,N
+staza gastr cu suc gastr A-cong difuz aspect mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuz folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuz tapetat cu mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuz tapetat cu mucus aerat aspect accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-cong difuza,N,N,ER,N,N,N,N,N,N
+staza gastr cu suc gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-folicular si cong difuz,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-folicular si cong difuz cu multiple eroz,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-mozaic parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr A-palid folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu suc gastr C+A-folicular,N,N,NO,NO,NO,N,N,N,N
+staza gastr cu suc gastr muc cong difuz multiple eroz acop cu fibrina mai ales pe Cma pilor spastic,N,N,ER,ER,ER,ERZZ,ERZZ,ERZZ,SPAS
+staza gastr cu suc gastr stomac partial volvulat A-mozaic,VGI,N,MO,N,N,N,N,N,N
+staza gastr cu suc gastr usor aspect de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr cu suc si bila,N,N,N,N,N,N,N,N,N
+staza gastr fara bila,N,N,N,N,N,N,N,N,N
+staza gastr import cu alim,N,N,N,N,N,N,N,N,N
+staza gastr import cu bezoar gastr A+C cong si edem,N,N,ER,ER,ER,N,N,N,N
+staza gastr import cu bila,N,N,N,N,N,N,N,N,N
+staza gastr import cu bila ader de muc gastr (muc discret cong),N,BI,N,N,N,N,N,N,N
+staza gastr import cu bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr import cu bila A-minim folicular pilor larg deschis,N,N,NO,N,N,N,N,N,DISK
+staza gastr import cu bila Cma-eroz punctiforma,VG,N,N,N,N,N,ERZ,N,N
+staza gastr import cu bila stomac dilat A-depoz de bila,DIL,N,N,N,N,N,N,N,N
+staza gastr import cu bila stomac spastic contractat pilor larg deschis,N,N,N,N,N,N,N,N,DISK
+staza gastr import cu mucus aerat A-cong difuz parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr import cu multa bila,N,N,N,N,N,N,N,N,N
+staza gastr import cu multa bila si mucus aerat A-numer hemor subepit punctiforme,N,N,HE,N,N,N,N,N,N
+staza gastr import cu multa bila muc cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr import cu multa bila muc cong difuz,N,N,ER,ER,ER,N,N,N,N
+staza gastr import cu resturi alim muc cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr import cu suc gastr si lapte diger stomac destins de volum pilor contractat punctiform ce nu se relaxeaza in timpul invest (Stenoza hipertrofica),DIL,N,N,N,N,N,N,N,SPAS
+staza gastr import cu multa bila ,N,N,N,N,N,N,N,N,N
+staza gastr import cu multa bila muc cong pilor diskinetic,N,N,ER,ER,ER,N,N,N,DISK
+staza gastr import fara bila,N,N,N,N,N,N,N,N,N
+staza gastr import fara bila A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr import fara bila A-hemor subepit punctiforma,N,N,HE,N,N,N,N,N,N
+staza gastr import fara bila precardial form pseudopolipoida 1/1.5cm de acelasi cul cu muc (pancreas ectopic),N,N,N,N,N,POL,N,N,N
+staza gastr import bezoar alim,N,N,N,N,N,N,N,N,N
+staza gastr import fara lez hemor,N,N,N,N,N,N,N,N,N
+staza gastr masiva,N,N,N,N,N,N,N,N,N
+staza gastr masiva cu multa bila A-folicular,N,BI,NO,N,N,N,N,N,N
+staza gastr minima ,N,N,N,N,N,N,N,N,N
+staza gastr minima cu bila,N,N,N,N,N,N,N,N,N
+staza gastr minima cu bila A-cong,N,N,ER,N,N,N,N,N,N
+staza gastr minima cu bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr minima cu bila muc cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr minima fara bila,N,N,N,N,N,N,N,N,N
+staza gastr minima fara bila A-accentuat folicular F-cateva hemor subepit,N,N,NO,N,HE,N,N,N,N
+staza gastr minima A-cateva eroz punctiforme,N,N,N,N,N,ERZZ,N,N,N
+staza gastr moder cu suc gastr si bila A-cong folicular o lez petesiala pliuri pilorice mai edematiate,N,N,NO; PE,N,N,N,N,PGE,N
+staza gastr moder cu suc gastr,N,N,N,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila,N,N,N,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila A-folicular+cong difuza,N,N,NO,ER,ER,N,N,N,N
+staza gastr moder cu suc gastr si bila A-mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila muc cong difuz tapetat de mucus impregn cu bila,N,BI; MU,ER,ER,ER,N,N,N,N
+staza gastr moder cu suc gastr si bila resturi alim A-palid impregn cu bila,N,A-BI,PAL,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila stomac partial volvulat A cong difuz depozite de bila,VGI,A-BI,ER,N,N,N,N,N,N
+staza gastr moder cu suc gastr si bila stomac partial volvulat A cong difuz pilor larg deschis diskinetic,VGI,N,ER,N,N,N,N,N,DISK
+staza gastr moder cu suc gastr si mucus aerat A-minim cong,N,N,ER,N,N,N,N,N,N
+staza gastr moder cu suc gastr si resturi alim stomac partial volvulat,VGI,N,N,N,N,N,N,N,N
+staza gastr moder cu suc gastr A cong difuz parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder cu suc gastr A si jonct A-C accentuat folicular,N,N,NO,NO,N,N,N,N,N
+staza gastr moder cu suc gastr A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder cu suc gastr A-aspect de mozaic parcelar zone de mucus impregn cu bila+o mica eroz,N,A-BI; MU,MO,N,N,ERZZ,N,N,N
+staza gastr moder cu suc gastr A-cong difuz tapetat de mucus aerat,N,N,ER,N,N,N,N,N,N
+staza gastr moder cu suc gastr A-cong difuz tapetat de mucus impregn cu bila pilor larg deschis diskinetic,N,A-BI; MU,ER,N,N,N,N,N,DISK
+staza gastr moder cu suc gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder cu suc gastr A-mai palida,N,N,PAL,N,N,N,N,N,N
+staza gastr moder cu suc gastr A-palid minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder cu suc gastr C+A-folicular accentuat,N,N,NO,NO,NO,N,N,N,N
+staza gastr moder cu suc gastr C+A-macrofolicular A-cong difuz 2-3 eroz,N,N,NO,NO,NO,ERZZ,N,N,N
+staza gastr moder cu suc gastr pliuri edematiate A-cong folicular,N,N,NO,N,N,N,N,PGE,N
+staza gastr moder cu suc gastric si bila antral folicular tapetat de mucus cu bila,N,A-BI; MU,NO,N,N,N,N,N,N
+staza gastr moder A-cong difuz,N,N,ER,N,N,N,N,N,N
+staza gastr moder A-cong difuz zone de mucus impregn cu bila,N,N,ER,N,N,N,N,N,N
+staza gastr moder A+C-folicular prepiloric crusta acoperita de fibrina,N,N,NO,NO,NO,CIC,N,N,N
+staza gastr moder cong difuza Cma-cateva eroz,N,N,ER,ER,ER,N,N,ERZZ,N
+staza gastr moder muc folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moder pilor larg deschis,N,N,N,N,N,N,N,N,DISK
+staza gastr modera A cong difuz cu aspect de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr modera A cong si folicular form tu 0.3/0.5 cm cu baza larga de implantare cu muc de acoperire de aceeasi aspect A-leziuni petesiale,N,N,NO; PE,N,N,POL,N,N,N
+staza gastr moderata cu suc gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr moderata A-cong difuz 1 eroz,N,N,ER,N,N,N,ERZ,N,N
+staza gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr cu alimente de la masa precedenta muc difuz cong,N,N,ER,ER,ER,N,N,N,N
+staza gastr dar fara bila antral minim aspect mozaic,N,N,MO,N,N,N,N,N,N
+staza gastr fara bila ,N,N,N,N,N,N,N,N,N
+staza gastr fara bila A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr fara bila A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr fara bila A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastr fara bila muc accentuat folicular pseudoplolipoid (gastrita limfocitica?),N,N,NO,NO,NO,N,N,N,N
+staza gastr usoara hipertrofie a pliurilor gastr A-cong difuz parcelar folicular,N,N,NO,N,N,N,N,N,N
+staza gastr A-accentuat folicular,N,N,NO,N,N,N,N,N,N
+staza gastr A-folicular,N,N,NO,N,N,N,N,N,N
+staza gastr A-folicular muc petesiala,N,N,NO; PE,N,N,N,N,N,N
+staza gastr C+A-minim folicular si cateva eroz punctiforme,N,N,NO,NO,NO,ERZZ,ERZZ,ERZZ,N
+staza gastr jonct A-C folicular Cma-form pseudopolipoida prepiloric cu aceeasi culoare muc adiacenta cu baza larga de implantara (incluzie pancreatica?),N,N,NO,N,N,N,N,N,DISK
+staza gastrica,N,N,N,N,N,N,N,N,N
+staza gastrica cu bila A-minim folicular,N,N,NO,N,N,N,N,N,N
+staza gastrica cu bila A-piatra de pavaj accentuat,N,N,MO,N,N,N,N,N,N
+staza gastrica cu mult suc gastr si bila C+A-cong depozite de mucus multiple eroziuni,N,BI; SU,ER,ER,ER,ERZZ,ERZZ,ERZZ,N
+staza gastrica cu mult suc gastr A-cong difuz aspect de mozaic,N,N,MO,N,N,N,N,N,N
+staza gastrica cu mult suc gastric si bila A-cong difuz microfolicular,N,N,NO,N,N,N,N,N,N
+staza gastrica cu multa bila si resturi alim,N,N,N,N,N,N,N,N,N
+staza gastrica minima fara bila jonct A-C folicular,N,N,N,NO,N,N,N,N,N
+staza gastrica fara bila A-minim aspect folicular,N,N,NO,N,N,N,N,N,N
+staza import cu cheaguri de sange diger (varsa in timpul endo) ,N,SANG,N,N,N,N,N,N,N
+staza minima cu bila,N,N,N,N,N,N,N,N,N
+staza moder de suc gastr si bila A-folicular,N,N,NO,N,N,N,N,N,N
+stomac aton aperistaltic bezoar voluminos A-lez eroziv hemor pilor spastic,N,N,HE,N,N,N,N,N,SPAS
+stomac contactat spastic cu muc intens cong cu multa bila aderenta,N,BI,ER,ER,ER,N,N,N,N
+stomac contr,N,N,N,N,N,N,N,N,N
+stomac contr cu depoz de bila,N,N,N,N,N,N,N,N,N
+stomac contractat,N,N,N,N,N,N,N,N,N
+stomac contractat fara staza,N,N,N,N,N,N,N,N,N
+stomac contractat partial volvulat,VGI,N,N,N,N,N,N,N,N
+stomac contractat C+A-folicular,N,N,NO,NO,NO,N,N,N,N
+stomac cu mult mucus aerat staza gastr A-minim cong,N,N,ER,N,N,N,N,N,N
+stomac destins de volum staza gastr import cu bila A-folicular,DIL,N,NO,N,N,N,N,N,N
+stomac destins mucus aderent de pereti A-minim folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilat,DIL,N,N,N,N,N,N,N,N
+stomac dilat cu staza import si bila A-eroz punctiforme,DIL,N,N,N,N,ERZZ,N,N,N
+stomac dilat cu staza import A-minim folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilat A-minim folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilat staza gastr A-atrofic,DIL,N,AT,N,N,N,N,N,N
+"stomac dilat staza import in special bila pilor larg deschis ""nefunctional"" form polipoida prepiloric si inca 2-3 la niv D2",DIL,BI,N,N,N,POL,N,N,N
+stomac dilatat,DIL,N,N,N,N,N,N,N,N
+stomac dilatat cu minim staza si bila A-minim folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilatat cu depozite de bila aderenta pilor deschis ce nu se contracta pe parcursul endosc,DIL,BI,N,N,N,N,N,N,DISK
+stomac dilatat partial volvulat A-cong difuz folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilatat staza gastr jonct C-A minim aspect folicular,DIL,N,N,NO,N,N,N,N,N
+stomac dilatat A-accentuat folicular pilor spastic,DIL,N,NO,N,N,N,N,N,SPAS
+stomac dilatat A-folicular,DIL,N,NO,N,N,N,N,N,N
+stomac dilatat mucus aderent de pereti (fara modif pato macrosc) pilor spastic,DIL,N,N,N,N,N,N,N,SPAS
+stomac dilatat pilor spastic,DIL,N,N,N,N,N,N,N,SPAS
+stomac dilatat staza gastr cu bila Cma-lez punctiforme A-intens cong,DIL,N,ER,N,N,N,N,ERZZ,N
+stomac dilatat staza gastr cu bila Cma+C-lez punctiforme A-minim folicular pilor larg deschis,DIL,N,NO,N,N,N,N,ERZZ,DISK
+stomac dilatat staza gastr A-cong,DIL,N,ER,N,N,N,N,N,N
+stomac dilatat staza min cu bila A-folicular,DIL,N,NO,N,N,N,N,N,N
+stomac foarte contractat,VG,N,N,N,N,N,N,N,N
+stomac foarte volvulat,VG,N,N,N,N,N,N,N,N
+stomac foarte volvulat C-muc cong,VG,N,N,N,ER,N,N,N,N
+stomac mai destins in volum,N,N,N,N,N,N,N,N,N
+stomac mai spastic,VGI,N,N,N,N,N,N,N,N
+stomac mic part volvulat A-minim cong,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat,VGI,N,N,N,N,N,N,N,N
+stomac part volvulat cu pliuri edematiate A-cong,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat curb-eroz,VGI,N,N,N,N,N,N,ERZZ,N
+stomac part volvulat A-accentuat folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat A-cong,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat A-cong cu mici eroz,VGI,N,ER,N,N,N,N,ERZZ,N
+stomac part volvulat A-cong difuz,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat A-cong difuz 2 eroz,VGI,N,ER,N,N,ERZZ,N,N,N
+stomac part volvulat A-cong difuz cateva eroz,VGI,N,ER,N,N,ERZZ,N,N,N
+stomac part volvulat A-cong difuz cateva eroz pilor cu pliuri edematiat,VGI,N,ER,N,N,ERZZ,N,N,N
+stomac part volvulat A-cong difuz folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat A-cong difuz folicular cativa lez petesiale,VGI,N,NO; PE,N,N,N,N,N,N
+stomac part volvulat A-cong difuz parcelar folicular cateva eroz,VGI,N,NO,N,N,ERZZ,N,N,N
+stomac part volvulat A-cong difuz tapetat cu mucus impregn cu bila,VGI,A-BI; MU,ER,N,N,N,N,N,N
+stomac part volvulat A-cong difuz reflux biliar bulbo-gastric,RDG,BI,ER,N,N,N,N,N,N
+stomac part volvulat A-cong intensa folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat A-folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat A-impregn cu bila,VGI,A-BI,N,N,N,N,N,N,N
+stomac part volvulat A-mai palid cateva eroz,VGI,N,PAL,N,N,ERZZ,N,N,N
+stomac part volvulat A-microfolicular cu cateva eroz si depozite de mucus impregn cu bila,VGI,A-BI; MU,NO,N,N,ERZZ,N,N,N
+stomac part volvulat A-minim cong,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat A-minim folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat A-mozaic,VGI,N,MO,N,N,N,N,N,N
+stomac part volvulat A-muc mai palida,VGI,N,PAL,N,N,N,N,N,N
+stomac part volvulat A-mucus impregn cu bila,VGI,A-BI; MU,N,N,N,N,N,N,N
+stomac part volvulat A-palida 2-3 eroz,VGI,N,PAL,N,N,ERZZ,N,N,N
+stomac part volvulat A-palida cu circulatie vizibila pilor spastic reflux biliar,VGI,A-BI,PAL,N,N,N,N,N,SPAS
+stomac part volvulat C-cong tapetat de mucus impregn cu bila,VGI,BI; MU,N,N,ER,N,N,N,N
+stomac part volvulat C-lez acoper cu fibrina,VGI,N,N,N,N,N,N,ERZZ,N
+stomac part volvulat C-mai palid,VGI,N,N,N,PAL,N,N,N,N
+stomac part volvulat C-muc palida cu multilpe eroz A-palid,VGI,N,PAL,PAL,PAL,N,N,ERZZ,N
+stomac part volvulat C+A-cong difuz,VGI,N,ER,ER,ER,N,N,N,N
+stomac part volvulat C+A-muc palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac part volvulat C+A-muc palida cu multiple eroz,VGI,N,PAL,PAL,PAL,ERZZ,ERZZ,ERZZ,N
+stomac part volvulat CMa-2 eroz,VGI,N,N,N,N,N,N,ERZZ,N
+stomac part volvulat Cma-cateva eroz A-minim cong minim reflux biliar,VGI,N,ER,N,N,N,N,ERZZ,N
+stomac part volvulat Cma-multiple eroz depozite de fibrina parcelar A-muc palida,VGI,N,PAL,N,N,N,N,ERZZ,N
+stomac part volvulat Cma-multiple eroz A-cong difuz,VGI,N,ER,N,N,N,N,ERZZ,N
+stomac part volvulat continut lichid,VGI,N,N,N,N,N,N,N,N
+stomac part volvulat muc cong difuz,VGI,N,ER,ER,ER,N,N,N,N
+stomac part volvulat muc corp palida A-cong difuz cateva eroz,VGI,N,ER,N,PAL,ERZZ,N,N,N
+stomac part volvulat muc corp palida A-palid cu multiple eroz,VGI,N,PAL,PAL,PAL,ERZZ,N,N,N
+stomac part volvulat muc mai palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac part volvulat muc palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac part volvulat muc palida cu vascularizatie vizibila,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac part volvulat muc palida A-minim folicular pilor spastic,VGI,N,NO,PAL,PAL,N,N,N,SPAS
+stomac part volvulat pilor competent,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac part volvulat pliuri pilorice usor edematiate,VGI,N,N,N,N,N,N,N,N
+stomac part volvulat staza gastr cu mult suc gastr si bila C+A-cong difuz in mozaic,VGI,BI; MU,ER,ER,ER,N,N,N,N
+stomac part volvulat staza gastr cu mult suc gastr si mucus,VGI,N,N,N,N,N,N,N,N
+stomac part volvulat staza gastr cu mult suc gastr A-cong difuz,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat staza gastr cu mult suc gastr A-folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr si bila A-cong difuz,VGI,N,ER,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr si bila A-cong difuz cu depoz de mucus impregn cu bila,VGI,A-BI; MU,ER,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr si bila A-cong difuz folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr si bila A-mozaic,VGI,N,MO,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr bila si alim A-cong difuz accentuat folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr cu suc gastr A-cong difuz folicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr moder cu suc gastr si bila A-cong difuz cu depozite de mucus impregn cu bila,VGI,A-BI; MU,ER,N,N,N,N,N,N
+stomac part volvulat staza gastr moder cu suc gastr A-microfolicular,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr moder A-folicular accentuat,VGI,N,NO,N,N,N,N,N,N
+stomac part volvulat staza gastr moder reflux biliar duodeno-gastr muc cong difuz tapetat de mucus impregn cu bila,RDG,BI; MU,ER,ER,ER,N,N,N,N
+stomac part volvulat staza gastr moderata A-cong difuz tapetat de mucus aerat,VGI,N,ER,N,N,N,N,N,N
+stomac partial volvulat,VGI,N,N,N,N,N,N,N,N
+stomac partial volvulat muc palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac partial volvulat A-accentuat folicular,VGI,N,NO,N,N,N,N,N,N
+stomac partial volvulat A-cong difuz,VGI,N,ER,N,N,N,N,N,N
+stomac partial volvulat A-folicular,VGI,N,NO,N,N,N,N,N,N
+stomac partial volvulat A-microfolicular,VGI,N,NO,N,N,N,N,N,N
+stomac partial volvulat A-mozaic,VGI,N,MO,N,N,N,N,N,N
+stomac partial volvulat C-edematiata A-cong difuz,VGI,N,ER,N,N,N,N,N,N
+stomac partial volvulat C-muc palida aspect de mozaic,VGI,N,N,N,PAL,N,N,N,N
+stomac partial volvulat C-palid ,VGI,N,N,N,PAL,N,N,N,N
+stomac partial volvulat C-palid A-cong cu o mica eroz,VGI,N,ER,N,PAL,ERZ,N,N,N
+stomac partial volvulat C+A-palid,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac partial volvulat muc palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+stomac partial volvulat staza gastr moder pliuri pilorice mai edematiate,VGI,N,N,N,N,N,N,N,N
+stomac plicaturat C-cateva eroz acoper cu cruste ,VGI,N,N,N,N,N,N,ERZZ,N
+stomac plicaturat staza de suc gastric si bila pliuri mai hipertrofiate,VGI,N,N,N,N,N,N,PGH,N
+stomac spastic,N,N,N,N,N,N,N,N,N
+stomac spastic contractat A-folicular,N,N,NO,N,N,N,N,N,N
+stomac spastic cu multa bila A-folicular,N,N,NO,N,N,N,N,N,N
+stomac spastic contractat multiple eroz punctiforme mai ales A-multiple eroz punctiforme hemor,N,N,HE,N,N,ERZZ,N,N,N
+stomac spastic contractat staza gastr import cu bila,N,N,N,N,N,N,N,N,N
+stomac spastic cu bila,N,N,N,N,N,N,N,N,N
+stomac spastic mucus aerat,N,N,N,N,N,N,N,N,N
+stomac spastic A-aspect folicular pilor larg deschis diskinetic,N,N,NO,N,N,N,N,N,DISK
+stomac spastic A-muc cong prepiloric polip cu baza larga de implantare (polip inflamator),N,N,ER,N,N,POL,N,N,N
+stomac spastic staza gastr cu multa bila,N,N,N,N,N,N,N,N,N
+stomac volvulat,VG,N,N,N,N,N,N,N,N
+stomac volvulat A-cong,VG,N,ER,N,N,N,N,N,N
+stomac volvulat A-cong pilor spastic,VG,N,ER,N,N,N,N,N,SPAS
+stomac volvulat A-palid depozite de mucus impregn cu bila prepiloric cateva erz,VG,A-BI; MU,PAL,N,N,ERZZ,N,N,N
+stomac volvulat C-cong difuz cateva microeroz si zone de mucus impregn cu bila,VG,N,N,ER,N,N,ERZZ,N,N
+stomac volvulat C-muc palida cateva eroz,VG,N,N,PAL,N,N,ERZZ,N,N
+stomac volvulat Cma-cateva eroz A-cong difuz,VG,N,ER,N,N,N,ERZZ,N,N
+stomac volvulat muc cong difuz cateva lez petesiale,VG,N,ER; PE,ER,ER,N,N,N,N
+stomac volvulat muc palida friabila,VG,N,PAL,PAL,PAL,N,N,N,N
+tapetat de……,N,N,N,N,N,N,N,N,N
+ulcer posib medicamentos in reg preantral inconj de o rana cu lez petesiale,VG,N,N,N,N,UG (MEDIC),N,N,N
+ulceratii si eroz hemor unele acoper de cheaguri si cruste hematice pana la niv A,VG,N,N,N,N,UG,UG,UG,N
+"varice cardiale si fundice pliuri edematiate tortuoase cu imag de ""piele de leopard"" (gastropatie HT) antral si nu numai multiple eroziuni si posib ulcere cu marg elevate cratere dar fara caract hemor activ mucoasa folicular",N,N,NO,N,N,UG,N,N,N
+varice fundice si cateva eroz hemor de muc fundica,N,N,N,N,N,N,N,ERZZ,N
+volvulus gastr,VG,N,N,N,N,N,N,N,N
+volvulus gastr incompl c-muc palida cu vasc vizibila,VGI,N,PAL,PAL,PAL,N,N,N,N
+volvulus gastr incomplet,VGI,N,N,N,N,N,N,N,N
+volvulus gastr incomplet A-mozaic,VGI,N,MO,N,N,N,N,N,N
+volvulus gastr incomplet F-folic,VGI,N,N,N,NO,N,N,N,N
+volvulus gastr incomplet muc corp palida cu cateva eroz,VGI,N,N,N,PAL,N,N,ERZZ,N
+volvulus gastr incomplet muc palida,VGI,N,PAL,PAL,PAL,N,N,N,N
+volvulus gastr incomplet pilor diskinetic,VGI,N,N,N,N,N,N,N,DISK
+volvulus gastr incomplet pilor spastic,VGI,N,N,N,N,N,N,N,SPAS
+volvulus gastr incomplet staza gastrica cu bila A-folicular,VGI,N,NO,N,N,N,N,N,N
+volvulus gastr strans,VG,N,N,N,N,N,N,N,N
+volvulus gastr cant crescuta de bila si suc gastr A-cong difuz tapetat de mucus impregn cu bila,VG,A-BI; MU,ER,N,N,N,N,N,N
