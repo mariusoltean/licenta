@@ -1,5 +1,6 @@
 package Model;
 
+import Util.FolderUtil;
 import Util.GroupRules;
 
 import java.io.File;
@@ -27,8 +28,8 @@ public class CompareRulesModel {
             GroupRules.findRulesForKeysForShowComparison(second,"Second");
             String tempColFirst = first.split(" <-")[0];
             String tempColSecond = second.split(" <-")[0];
-            this.filenameFirst = GroupRules.getCurrentPossition() + GroupRules.buildColumnDocumentWithIndexForShowComp(tempColFirst, "First");
-            this.filenameSecond = GroupRules.getCurrentPossition() + GroupRules.buildColumnDocumentWithIndexForShowComp(tempColSecond, "Second");
+            this.filenameFirst = FolderUtil.getCurrentPossition() + "apriori\\" + GroupRules.buildColumnDocumentWithIndexForShowComp(tempColFirst, "First");
+            this.filenameSecond = FolderUtil.getCurrentPossition() + "apriori\\" + GroupRules.buildColumnDocumentWithIndexForShowComp(tempColSecond, "Second");
         }else{
             //BAD INPUT
             filenameFirst="";

@@ -6,6 +6,8 @@
 package View;
 
 import Model.AbbreviationsEditingModel;
+import Util.FolderUtil;
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -16,9 +18,12 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Objects;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -58,15 +63,7 @@ public class AbbreviationsEditingFrame extends JFrame {
     private final JButton button_addRow = new JButton("Add row");
     private final JButton button_search = new JButton("Find word");
     private final JButton button_findInDictionary = new JButton("Validate word");
-    private static String possitioningCommand="pwd>enterPath.txt";
-    private static String pathFile="enterPath.txt";
 
-    private static String getCurrentPossition() throws IOException, InterruptedException {
-        Process p1 = Runtime.getRuntime().exec(new String[]{"sh","-c",possitioningCommand});
-        p1.waitFor();
-        BufferedReader reader = new BufferedReader(new FileReader(pathFile));
-        return reader.readLine()+"/apriori/";
-    }
     /**
      * JLabel *
      */
@@ -121,15 +118,7 @@ public class AbbreviationsEditingFrame extends JFrame {
                         "Exit Confirmation", JOptionPane.YES_NO_OPTION,
                         JOptionPane.QUESTION_MESSAGE, null, null, null);
                 if (confirm == 0) {
-                    try {
-                        Runtime.getRuntime().exec(new String[]{"sh","-c","rm -R "+getCurrentPossition()+"*" });
-                    } catch (IOException e1) {
-                        e1.printStackTrace();
-                    } catch (InterruptedException e1) {
-                        e1.printStackTrace();
-                    }
-
-
+                    Arrays.stream(Objects.requireNonNull(new File(FolderUtil.getCurrentPossition() + "apriori\\").listFiles())).forEach(File::delete);
                     System.exit(0);
                 }
             }

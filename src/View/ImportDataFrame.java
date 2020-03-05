@@ -5,29 +5,16 @@
  */
 package View;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.Font;
-import java.awt.GridLayout;
-import java.awt.event.ActionListener;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
-import java.awt.event.WindowListener;
-import java.io.BufferedReader;
+import Util.FolderUtil;
+
+import java.awt.*;
+import java.awt.event.*;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import javax.swing.JButton;
-import javax.swing.JComboBox;
-import javax.swing.JFileChooser;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JSplitPane;
-import javax.swing.JTable;
+import java.util.Arrays;
+import java.util.Objects;
+import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.JTableHeader;
 
@@ -48,16 +35,6 @@ public class ImportDataFrame extends JFrame {
     private final JButton button_back = new JButton("Back");
     private final JButton button_abbrevEditing = new JButton("Abbreviations Editing");
     private final JButton button_save = new JButton("Save");
-    private static String possitioningCommand="pwd>enterPath.txt";
-    private static String pathFile="enterPath.txt";
-
-    private static String getCurrentPossition() throws IOException, InterruptedException {
-        Process p1 = Runtime.getRuntime().exec(new String[]{"sh","-c",possitioningCommand});
-        p1.waitFor();
-        BufferedReader reader = new BufferedReader(new FileReader(pathFile));
-        return reader.readLine()+"/apriori/";
-    }
-
     /**
      * JSplitPane *
      */
@@ -94,15 +71,7 @@ public class ImportDataFrame extends JFrame {
                         "Exit Confirmation", JOptionPane.YES_NO_OPTION,
                         JOptionPane.QUESTION_MESSAGE, null, null, null);
                 if (confirm == 0) {
-                    try {
-                        Runtime.getRuntime().exec(new String[]{"sh","-c","rm -R "+getCurrentPossition()+"*" });
-                    } catch (IOException e1) {
-                        e1.printStackTrace();
-                    } catch (InterruptedException e1) {
-                        e1.printStackTrace();
-                    }
-
-
+                    Arrays.stream(Objects.requireNonNull(new File(FolderUtil.getCurrentPossition() + "apriori\\").listFiles())).forEach(File::delete);
                     System.exit(0);
                 }
             }

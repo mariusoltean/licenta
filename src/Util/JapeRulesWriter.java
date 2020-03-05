@@ -13,12 +13,12 @@ public class JapeRulesWriter {
 
     public static void generateJapeRules() throws IOException {
         //private static String fileName="S-Lum_rulesOut.out";
-        List<String> fileNames=FolderUtilitary.getFileNamesFromRulesFolder(folderName);
+        List<String> fileNames= FolderUtil.getFileNamesFromRulesFolder(folderName);
 
         for (String fileName:fileNames) {
 
             final String japeRulesFileName=fileName.split("_")[0]+"_japeRulesOut.jape";
-            final String rulesFile = FolderUtilitary.getCurrentPossition() + folderName + fileName;
+            final String rulesFile = FolderUtil.getCurrentPossition() + folderName + fileName;
             BufferedReader reader = new BufferedReader(new FileReader(rulesFile));
             ArrayList<String> rules = new ArrayList<>();
             String line;

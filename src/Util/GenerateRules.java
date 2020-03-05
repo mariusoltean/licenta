@@ -5,11 +5,18 @@
  */
 package Util;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
+
+import static Util.LinesFilterer.filterInputData;
 
 /**
  * Created by osboxes on 31/01/16.
@@ -20,40 +27,27 @@ public class GenerateRules {
     String aprioriExec = "aprioriLinux ";
     String findstrCmd = "grep ";
     String sortCmd = "sort ";
-    private static String possitioningCommand="pwd>enterPath.txt";
-    private static String pathFile="enterPath.txt";
 
-    public GenerateRules(){
-        possitioning=" "+getCurrentPossition();
+    public GenerateRules() {
+        possitioning = FolderUtil.getCurrentPossition();
     }
-    public static String getCurrentPossition() {
-        Process p1 = null;
-        try {
-            p1 = Runtime.getRuntime().exec(new String[]{"sh","-c",possitioningCommand});
-            p1.waitFor();
-            BufferedReader reader = new BufferedReader(new FileReader(pathFile));
-            return reader.readLine()+"/";
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        return null;
-    }
+
     public void runApriori(String confid, String supp, String numeColoana, String valoareColoana) {
         try {
-            String aprioriParameters = " -tr " + "-c" + confid + " -s" + supp + " -q0 -n5 - -";
+            String aprioriParameters = " -tr " + "-c" + confid + " -s" + supp + " -q0 -n5 ";
             String inputFile = "Data." + numeColoana + ".in";
             String outputFile = "apriori/aprioriRules.out";
             String colValue = numeColoana + "_" + valoareColoana;
             String intermediateFile = "apriori/Data." + numeColoana + "_" + valoareColoana + ".in";
-            Process p1 = Runtime.getRuntime().exec(new String[]{"sh","-c",findstrCmd + colValue + possitioning+inputFile + " | " +
-                    possitioning+aprioriExec + aprioriParameters + " | " +
-                    findstrCmd +"\"" +colValue+" <-\"" + " | " +
-                    sortCmd + " > " +possitioning+outputFile});
-            p1.waitFor();
-            Runtime.getRuntime().exec(new String[]{"sh","-c",findstrCmd + colValue + possitioning+inputFile + " > " + possitioning+intermediateFile});
-
+            List<String> filteredLines = filterInputData(inputFile, colValue);
+            Files.write(Paths.get(possitioning + intermediateFile), filteredLines);
+            Process generateRulesProcess = Runtime.getRuntime().exec("cmd /c start cmd.exe /C" + possitioning + "apriori.exe " + aprioriParameters + " " + intermediateFile + " " + outputFile);
+            generateRulesProcess.waitFor();
+            Thread.sleep(1000);
+            Files.write(Paths.get(possitioning + outputFile), filterInputData(outputFile, colValue+ " <-")
+                                                                    .stream()
+                                                                    .sorted()
+                                                                    .collect(Collectors.toList()));
         } catch (IOException | InterruptedException ex) {
             Logger.getLogger(GenerateRules.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -66,12 +60,11 @@ public class GenerateRules {
             String colValue = numeColoana + "_" + valoareColoana;
             String outputFile = "apriori/aprioriRules.out";
 
-            Process p1 = Runtime.getRuntime().exec(new String[]{"sh","-c",possitioning+aprioriExec + aprioriParameters + possitioning+inputFile + " - | " + findstrCmd +"\"" +colValue+" <-\"" +  " | " + sortCmd + " > " + possitioning+outputFile});
+            Process p1 = Runtime.getRuntime().exec(new String[]{"sh", "-c", possitioning + aprioriExec + aprioriParameters + possitioning + inputFile + " - | " + findstrCmd + "\"" + colValue + " <-\"" + " | " + sortCmd + " > " + possitioning + outputFile});
             p1.waitFor();
 
         } catch (IOException | InterruptedException ex) {
             Logger.getLogger(GenerateRules.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-
 }
